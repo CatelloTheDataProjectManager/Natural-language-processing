@@ -1,5 +1,8 @@
 # Deep Learning and Neural Networks
 
+###### If you are interested in exploring a project that uses Neural Networks and want more information on other notebooks about MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network), and RNN (Recurrent Neural Network), you can check out the following link: [GitHub Neural Networks Repository](https://github.com/CatelloTheDataProjectManager/neural_networks/blob/main/README.md).
+
+
 ## Natural Language Processing (NLP) with Transformers
 
 As a Data Project Manager, I've used NLP techniques to extract insights from customer conversations via the [Intercom](https://www.intercom.com/) API, improving our product and customer experience.
